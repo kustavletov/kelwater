@@ -1,0 +1,9 @@
+{
+    "region": "Akmola",
+    "averageTemperatures": [-5, -3, 0, 5, 10],
+    "snowDepth": 15,
+    "groundWaterLevel": 1.8,
+    "soilMoisture": 0.75,
+    "rainfallHistory": [3, 6, 12, 2, 1, 25],
+    "springMeltIndex": 0.85
+}
